@@ -6,8 +6,8 @@
 - 📫 How to reach me: samriddhiwalia@gmail.com
 - 😄 Pronouns: She/Her
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> Programming Languages - C/C++, Java, Python
-• Programming Tools - VS Code, Sublime Text, Eclipse
-• Web Technologies - HTML, CSS, JavaScript, Git, MySQL, PHP </p>
+<h5 align="left">Languages and Tools:</h5>
+<p align="left"> Programming Languages: C++, C, Python, Java <br>
+• Programming Tools: VS Code, Sublime Text, Eclipse, Atom <br>
+• Web Technologies: HTML, CSS, JavaScript, Git, MySQL, PHP </p>
 
